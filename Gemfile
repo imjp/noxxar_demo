@@ -10,8 +10,7 @@ gem 'meta_search', '>= 1.1.0.pre'
 gem 'sass-rails'
 
 
- 
-gem 'sqlite3'
+  
  
 group :assets do 
   gem 'coffee-rails', '~> 3.1.1'
